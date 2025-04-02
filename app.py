@@ -77,7 +77,7 @@ st.markdown("Fine-tune foundation models on Spheron's decentralized GPU network"
 
 # Sidebar for navigation and status
 with st.sidebar:
-    st.image("https://via.placeholder.com/150x80?text=Spheron", width=150)
+    st.image("helpers/spheron_logo.jpeg", width=150)
     st.subheader("Pipeline Status")
     
     # Show progress based on current stage
