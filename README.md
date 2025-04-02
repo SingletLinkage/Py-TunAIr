@@ -52,7 +52,7 @@ ipywidgets>=8.1.0
 
 2. Launch the frontend application:
    ```bash
-   streamlit run fine-tuning-app-frontend.py
+   streamlit run app.py
    ```
 
 3. Start the backend notebook (for advanced options):
